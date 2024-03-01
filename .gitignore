@@ -1,0 +1,7 @@
+.classpath
+.project
+.settings/
+/bin
+*/target/*
+!*/target/minegame-1.0-SNAPSHOT.jar
+!*/target/site

@@ -1,0 +1,26 @@
+-classpath
+'C:/Users/user/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/user/Documents/GitHub/CMPT276F23_group6/minegame/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/Documents/GitHub/CMPT276F23_group6/minegame/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'minegame 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/user/Documents/GitHub/CMPT276F23_group6/minegame/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'minegame 1.0-SNAPSHOT API'
